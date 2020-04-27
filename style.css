@@ -30,6 +30,29 @@ button:active{
   color:#cfe1ff;
 }
 
+.project-title {
+  display: flex;
+}
+
+.thumbnails {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+
+.thumbnails a {
+  width: 30%;
+  margin: 0px;
+  padding: 30px;
+  text-decoration: none;
+  color: black;
+}
+
+.thumbnails a:nth-last-child(-n + 4) {
+  padding-bottom: 0 !important;
+}
+
+
 .menu a{
   text-decoration:none;
   font-size:30pt;
@@ -49,7 +72,7 @@ button:active{
 }
 
 .textpost{
-  position:absolute;
+  position:fixed;
   top:5px;
   width:30%;
   font-family:monospace;
