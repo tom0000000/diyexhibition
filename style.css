@@ -31,11 +31,11 @@ button:active{
 }
 
 .project-title {
-  font-size:30pt;
+  font-size:60pt;
   display: flex;
 }
-.project-title {
-  font-size:60pt;
+.project-author {
+  font-size:30pt;
   display: flex;
 }
 
