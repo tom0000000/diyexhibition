@@ -1,5 +1,5 @@
 body{
-  background-color: #cfe1ff;
+  background-color: #ffffff;
   color: black;
   font-family: Helvetica;
 }
@@ -31,11 +31,11 @@ button:active{
 }
 
 .project-title {
-  font-size:60pt;
+  font-size:40pt;
   display: flex;
 }
 .project-author {
-  font-size:30pt;
+  font-size:10pt;
   display: flex;
 }
 
