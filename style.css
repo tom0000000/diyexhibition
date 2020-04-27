@@ -31,6 +31,7 @@ button:active{
 }
 
 .project-title {
+  font-size:30pt;
   display: flex;
 }
 
