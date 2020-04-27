@@ -1,5 +1,5 @@
 body{
-  background-color: #ffffff;
+  background-color: #000000;
   color: black;
   font-family: Helvetica;
 }
@@ -50,11 +50,13 @@ button:active{
 
 .textpost{
   background-color: #cfe1ff;
-  position: fixed;
+  position: absolute;
+  width: 50%;
+  margin-top: 10%;
   padding:10px 10px;
   font-size:20px;
   text-align: justify;
-  transform:translate(-120%);
+  transform:translate(50%);
   font-family:monospace;
 }
 
