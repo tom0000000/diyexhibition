@@ -34,6 +34,10 @@ button:active{
   font-size:30pt;
   display: flex;
 }
+.project-title {
+  font-size:60pt;
+  display: flex;
+}
 
 .thumbnails {
   display: flex;
